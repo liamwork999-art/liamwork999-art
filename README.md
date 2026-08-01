@@ -109,6 +109,7 @@ I'm following a structured 2.5-year roadmap to transition from beginner → inte
 
 - Building clean, readable code
 - Problem-solving with JavaScript
+- Practicing algorithm problems on LeetCode
 - Advanced CSS (animations, responsive design)
 - Code refactoring and optimization
 
@@ -123,7 +124,7 @@ I'm following a structured 2.5-year roadmap to transition from beginner → inte
 
 ## 📊 GitHub Stats
 
-- **Total Repos:** 10+
+- **Total Repos:** 13+
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Commit Streak:** Consistent daily commits (green grid 💚)
 - **Pinned Projects:** 5 live projects
@@ -155,6 +156,7 @@ I'm using a mix of:
 ## 📞 Let's Connect
 
 - **GitHub:** [@liamwork999-art](https://github.com/liamwork999-art)
+- **LeetCode:** [Liam_xoom999-art](https://leetcode.com/u/Liam_xoom999-art)
 - **Email:** liamwork999@gmail.com
 
 ---
@@ -174,13 +176,12 @@ By age 22, I aim to:
 
 ## 📝 Monthly Progress
 
-### July 2026
+### August 2026
 
-- ✅ Completed HTML & CSS fundamentals (11-section deep dive)
-- ✅ Built 4 polished front-end projects with professional READMEs
-- ✅ Cleaned and refactored JavaScript code
-- ✅ Set up comprehensive GitHub profile and project documentation
-- 🔄 Next: Deepen JavaScript OOP concepts, start React fundamentals
+- ✅ Continued JavaScript practice with algorithm problems and reusable utilities
+- ✅ Expanded project skills by building cleaner code and better documentation
+- ✅ Added shared utility modules for future projects
+- 🔄 Next: Deepen React fundamentals and begin React Native app development
 
 ---
 
@@ -197,7 +198,7 @@ I believe in:
 
 ---
 
-**Last Updated:** July 8, 2026  
+**Last Updated:** August 1, 2026  
 **Status:** 🟢 Active Learner | Building Daily | Always Growing
 
 ---
