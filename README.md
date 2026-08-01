@@ -155,8 +155,6 @@ I'm using a mix of:
 ## 📞 Let's Connect
 
 - **GitHub:** [@liamwork999-art](https://github.com/liamwork999-art)
-- **LinkedIn:** [Liam Araya](https://linkedin.com)
-- **Twitter/X:** [@liamdev](https://twitter.com)
 - **Email:** liamwork999@gmail.com
 
 ---
