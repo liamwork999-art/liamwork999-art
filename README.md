@@ -95,7 +95,7 @@ I'm following a structured 2.5-year roadmap to transition from beginner → inte
 
 2. **🪃 Instagram Unfollower Checker**
    - As you can see the repo's name is self explanatory but let me give you some info too.
-   - Am sure you sometimes hate when ppl followed you and when you follow them back they unfollow you and in insta you can't check who unfollowed you pretty lame right 😑...
+   - Am sure you get annoyed when you can't see who unfollowed you and insta does show you that.. pretty lame right 😑...
    - This simple repo right here saves you from that problem.. Check Out the Repo 🤘 and find out more ABT this and give it a start if you like me or the Repo whatever works for you 😅.
    - [View Repo](https://github.com/liamwork999-art/Instagram-Unfollower-Checker)
 
