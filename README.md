@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://share.google/9GA5yiV3ozXCpELf9" width="200" height="200" alt="My Sticker">
+</p>
+
 # Name: Liam Araya
 
 **Aspiring Mobile Developer | Building Apps and Webs to Solve problems**
