@@ -1,19 +1,10 @@
-# 👋 Hi, I'm Liam Araya
+# Name: Liam Araya
 
-**Aspiring Mobile Developer | Building Apps to Solve Real Problems | Ethiopia 🇪🇹**
+**Aspiring Mobile Developer | Building Apps and Webs to Solve problems**
 
-I'm an 18-year-old self-taught developer on a mission to master full-stack mobile development. I'm currently learning JavaScript, HTML, CSS, and React with the goal of building cross-platform mobile apps using React Native. Every day, I'm one step closer to creating useful, polished applications that impact real users worldwide.
+A self-taught developer on a mission to master full-stack mobile development starting with Web Development. I'm currently learning JavaScript, HTML, CSS, and React with the goal of building cross-platform mobile apps using React Native. and cool Web front-end designs.
 
----
-
-## 🎯 What I'm Working On
-
-I'm following a structured 2.5-year roadmap to transition from beginner → intermediate → professional developer:
-
-- **Phase 0 (Current):** Mastering JavaScript, HTML, CSS fundamentals and understanding DOM manipulation
-- **Phase 1:** Core React concepts and building interactive web applications
-- **Phase 2:** React Native and mobile app development
-- **Year 2:** Monetization, app store deployment, and building my own micro-SaaS products
+> Message me for collaboration or if you are interested in me 😊...
 
 ---
 
@@ -131,7 +122,7 @@ I'm following a structured 2.5-year roadmap to transition from beginner → inte
 
 ## 📊 GitHub Stats
 
-- **Total Repos:** 13+
+- **Total Repos:** 15+
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Commit Streak:** Consistent daily commits (green grid 💚)
 - **Pinned Projects:** 5 live projects
@@ -176,15 +167,14 @@ By age 22, I aim to:
 - ✅ Build and publish 5+ apps on Google Play Store & Apple App Store
 - ✅ Generate passive income through app monetization
 - ✅ Become a full-time remote React Native developer
-- ✅ Help other developers in Ethiopia start their coding journey
 
-**"I'm not just learning to code. I'm building the future, one commit at a time."**
+**building the future, one commit at a time."**
 
 ---
 
 ## 📝 Monthly Progress
 
-### August 2026
+### August 1, 2026
 
 - ✅ Continued JavaScript practice with algorithm problems and reusable utilities
 - ✅ Expanded project skills by building cleaner code and better documentation
