@@ -4,7 +4,9 @@
   <img src="car_image.jpg" alt="Header Banner" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </p>
 
-**Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨**
+<h3 align="center">
+  <font color="#38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
+</h3>
 
 Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
 
