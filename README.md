@@ -1,204 +1,206 @@
-# Name: Liam Araya
+# Hey there, I'm Liam Araya! 👋
 
-**Aspiring Mobile Developer | Building Apps and Webs to Solve problems**
+<p align="center">
+  <img src="https://i.pinimg.com/736x/6d/03/20/6d0320a4fcdd58b653aa21e2f1fa6674.jpg" alt="Cute Cat Banner" width="450" style="border-radius: 10px;">
+</p>
 
-A self-taught developer on a mission to master full-stack mobile development starting with Web Development. I'm currently learning JavaScript, HTML, CSS, and React with the goal of building cross-platform mobile apps using React Native. and cool Web front-end designs.
+**Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨**
 
-> Message me for collaboration or if you are interested in me 😊...
+Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
 
----
+When I'm not fighting CSS flexbox or wondering why JavaScript evaluates `[] + {}` to `"[object Object]"`, I'm building real projects that solve real problems.
 
-## 🛠️ Tech Stack
-
-**Currently Learning:**
-
-- JavaScript (ES6+, DOM manipulation, event handling)
-- HTML5 & CSS3 (flexbox, grid, responsive design)
-- Git & GitHub (version control, collaboration)
-
-**In My Roadmap:**
-
-- React & React Hooks
-- React Native & Expo
-- Firebase / Supabase (backend)
-- Mobile design principles
+> 💬 Hit me up if you want to collaborate, talk tech, or if you're interested in hiring/working with me 😊... (I don't bite, promise!)
 
 ---
 
-## 💼 Projects
+## 🛠️ My Tech Toolbox (And Stuff I'm Conquering)
 
-### JavaScript Projects
+**Currently Wrestling With:**
+
+- ⚡ **JavaScript (ES6+)** — DOM manipulation, event handling, async stuff, and avoiding `undefined is not a function`.
+- 🎨 **HTML5 & CSS3** — Flexbox wizardry, CSS Grid puzzles, and making layouts look crisp on every screen.
+- 🐙 **Git & GitHub** — Committing daily, pushing code, and keeping that green contribution grid glowing 💚.
+
+**In My Sights (Coming Soon™):**
+
+- ⚛️ **React & React Hooks**
+- 📱 **React Native & Expo** (The ultimate goal!)
+- 🔥 **Firebase / Supabase** (Backend superpowers)
+- 🎨 **Mobile UI/UX Design**
+
+---
+
+## 💼 Projects (Built With Blood, Sweat, and Console.logs)
+
+### 🟨 JavaScript Projects
 
 1. **🎯 Guess My Number**
-   - Interactive number guessing game with score tracking
-   - Technologies: HTML, CSS, JavaScript
-   - Features: Random number generation, score management, highscore tracking
-   - [View Repo](https://github.com/liamwork999-art/Guess-My-Number)
+   - That classic game where you try to guess the secret number before your score hits zero!
+   - **Stack:** HTML, CSS, JavaScript
+   - **Cool Stuff:** Random number generator, score countdown, and high-score memory so you can flex on your friends.
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Guess-My-Number)
 
-2. **💰 Daily Expense Tracker**
-   - Track daily expenses with simple calculations
-   - Technologies: JavaScript (arrays, objects, functions)
-   - Features: Add expenses, calculate totals, basic filtering
-   - [View Repo](https://github.com/liamwork999-art/Daily-Expense-Tracker)
+2. **💸 Daily Expense Tracker**
+   - Because money disappears fast if you don't keep an eye on it!
+   - **Stack:** JavaScript (Arrays, Objects, Functions)
+   - **Cool Stuff:** Quick expense logging, total calculations, and basic filter checks.
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Daily-Expense-Tracker)
 
 3. **📊 Budget Summary Tracker**
-   - Advanced expense tracking with category-based analysis
-   - Technologies: JavaScript (arrays of objects, dynamic updates)
-   - Features: Category breakdown, budget comparison, data aggregation
-   - [View Repo](https://github.com/liamwork999-art/Budget-Summary-Tracker)
+   - The upgraded cousin of the daily tracker for when you need serious category breakdowns.
+   - **Stack:** JavaScript (Arrays of Objects, Data Aggregation)
+   - **Cool Stuff:** Category analysis, budget limit comparisons, and aggregated spending reports.
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Budget-Summary-Tracker)
 
 4. **✅ Todo Manager**
-   - Simple task management system
-   - Technologies: JavaScript, arrays, object manipulation
-   - Features: Add tasks, mark complete, filter pending/completed
-   - [View Repo](https://github.com/liamwork999-art/Todo-Manager)
+   - Because my brain has too many tabs open at once.
+   - **Stack:** JavaScript (Array & Object manipulation)
+   - **Cool Stuff:** Add tasks, check them off, and filter between "doing" and "done".
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Todo-Manager)
 
-### HTML & CSS Projects
+---
+
+### 🎨 HTML & CSS Projects
 
 1. **🎲 Guess My Number UI**
-   - Beautiful game interface with gradient backgrounds
-   - Technologies: HTML5, CSS3 (flexbox, gradients, positioning)
-   - [View Repo](https://github.com/liamwork999-art/Guess-My-Number)
+   - Giving the guessing game a fancy coat of paint with smooth gradients and sleek alignment.
+   - **Stack:** HTML5, CSS3 (Flexbox, Gradients, Positioning)
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Guess-My-Number)
 
 2. **👟 Brand Shoe Landing Page**
-   - Modern product branding page with card layouts
-   - Technologies: HTML5, CSS3 (card design, typography, color themes)
-   - [View Repo](https://github.com/liamwork999-art/Brand-Shoe)
+   - A modern, high-energy product landing page for shoe brands.
+   - **Stack:** HTML5, CSS3 (Card design, typography, slick color schemes)
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Brand-Shoe)
 
 3. **💳 Pricing Grid**
-   - Professional pricing comparison layout
-   - Technologies: HTML5, CSS3 (grid, responsive cards)
-   - [View Repo](https://github.com/liamwork999-art/Pricing-Grid)
+   - Clean, conversion-focused pricing comparison cards for SaaS products.
+   - **Stack:** HTML5, CSS3 (Grid layout, responsive cards)
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Pricing-Grid)
 
 4. **💼 Freelance Form**
-   - Clean project posting form for marketplace apps
-   - Technologies: HTML5, CSS3 (form styling, modern design)
-   - [View Repo](https://github.com/liamwork999-art/Freelance-Form)
+   - A clean project posting form for freelance marketplace platforms.
+   - **Stack:** HTML5, CSS3 (Form UI styling, modern spacing)
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Freelance-Form)
 
-### Python Projects
+---
+
+### 🐍 Python Projects
 
 1. **🎲 Twobet 2.0 - Betting Game**
-   - Two-player terminal-based betting game
-   - Technologies: Python (OOP, file handling, game logic)
-   - Features: Game history, save/resume functionality, balance tracking
-   - Rating: 9/10 | 440 lines of code
-   - [View Repo](https://github.com/liamwork999-art/Twobet-2.0)
+   - A 2-player terminal betting duel with custom slot-machine mechanics!
+   - **Stack:** Python (OOP, File I/O, Game State Management)
+   - **Cool Stuff:** Save/resume game state, session history logs, and balance management.
+   - **Flex:** 440 lines of clean Python | Rated 9/10 by me 😅!
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Twobet-2.0)
 
 2. **🪃 Instagram Unfollower Checker**
-   - As you can see the repo's name is self explanatory but let me give you some info as well.
-   - Am sure you get annoyed when you can't see who unfollowed you and insta does show you that.. pretty lame right 😑...
-   - This simple repo right here saves you from that problem.. Check Out the Repo 🤘 and find out more ABT this and give it a start if you like me or the Repo whatever works for you 😅.
-   - [View Repo](https://github.com/liamwork999-art/Instagram-Unfollower-Checker)
-
+   - Ever get annoyed when you can't see who unfollowed you and Instagram doesn't show you? Pretty lame, right 😑...
+   - This simple script right here saves you from that exact headache! It compares your exported data locally (100% private).
+   - 🔗 [Check Out The Repo 🤘](https://github.com/liamwork999-art/Instagram-Unfollower-Checker) and leave a star if it saved your sanity! 😅
 
 ---
 
 ## 📈 My Learning Journey
 
-### ✅ Completed
+### ✅ Level Conquered
 
-- [x] Git & GitHub setup and workflow
-- [x] HTML & CSS fundamentals (11-section course)
-- [x] JavaScript basics (variables, functions, loops, arrays, objects)
-- [x] DOM manipulation and event handling
-- [x] First portfolio projects (5+ live projects)
+- [x] Git & GitHub workflow (no more `git push --force` panic!)
+- [x] HTML & CSS Fundamentals (11-section deep dive)
+- [x] JavaScript Core (Variables, Functions, Loops, Arrays, Objects)
+- [x] DOM Manipulation & Event Handling
+- [x] Shipped 5+ real portfolio projects
 
-### 🔄 Currently Learning
+### 🔄 Currently In The Gym
 
-- Building clean, readable code
-- Problem-solving with JavaScript
-- Practicing algorithm problems on LeetCode
-- Advanced CSS (animations, responsive design)
-- Code refactoring and optimization
+- [ ] Writing clean, readable code (readable > clever!)
+- [ ] Solving algorithm puzzles on LeetCode 🧩
+- [ ] Conquering modern CSS animations & responsiveness
+- [ ] Refactoring old code to make past-me proud
 
-### 📚 Next Steps
+### 📚 Next Boss Battles
 
-- React fundamentals (hooks, components, state management)
-- React Native and Expo setup
-- Building my first mobile app
-- Deploying to app stores
+- [ ] React Fundamentals (Hooks, State, Components)
+- [ ] React Native + Expo mobile setup
+- [ ] Building & launching my first mobile app on Google Play / App Store!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Vibe Check
 
-- **Total Repos:** 15+
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Commit Streak:** Consistent daily commits (green grid 💚)
-- **Pinned Projects:** 5 live projects
-
----
-
-## 🎓 Learning Resources
-
-I'm using a mix of:
-
-- **Paid Courses:** Jonas Schmedtmann (React), Maximilian Schwarzmüller (React Native)
-- **Free Resources:** MDN Web Docs, CSS-Tricks, Dev.to
-- **Practice:** Building real projects, GitHub commits, code reviews
+- 📦 **Total Repos:** 15+ and counting!
+- 💻 **Languages:** JavaScript, Python, HTML, CSS
+- 🟢 **Commit Streak:** Daily commits keeping that green contribution grid alive 💚
+- 📌 **Pinned Projects:** 5 live showcase builds
 
 ---
 
-## 🌟 Highlights
+## 🎓 Where I Get My Knowledge
 
-✨ **What Sets Me Apart:**
+I'm learning by building real stuff and combining:
 
-- **Consistency:** Daily coding + nightly GitHub commits
-- **Portfolio-First Approach:** Every project has a polished README with screenshots
-- **Real Problem-Solving:** Building apps that solve actual user problems
-- **Growth Mindset:** Learning in public, open to feedback
-- **International Ambition:** Building with a global audience in mind
+- 👨‍🏫 **Top Courses:** Jonas Schmedtmann (JavaScript / React), Maximilian Schwarzmüller (React Native)
+- 📖 **Docs & Guides:** MDN Web Docs, CSS-Tricks, Dev.to
+- 🔨 **Practice:** Daily coding, building real apps, and learning from mistakes!
 
 ---
 
-## 📞 Let's Connect
+## 🌟 What Makes Me Tick?
 
-- **Instagram:** [liam_xoom](https://instagram.com/liam_xoom)
-- **GitHub:** [@liamwork999-art](https://github.com/liamwork999-art)
-- **LeetCode:** [Liam_xoom999-art](https://leetcode.com/u/Liam_xoom999-art)
-- **Email:** liamwork999@gmail.com
-
----
-
-## 🚀 My Goal
-
-By age 22, I aim to:
-
-- ✅ Build and publish 5+ apps on Google Play Store & Apple App Store
-- ✅ Generate passive income through app monetization
-- ✅ Become a full-time remote React Native developer
-
-**building the future, one commit at a time."**
+- **Daily Grind:** Coding every day + pushing code every night. Rain or shine.
+- **Project-First:** Theory is cool, but building real stuff with clean READMEs is cooler.
+- **Problem Solver:** Building tools I actually want to use (like the Insta unfollower checker).
+- **Global Dreams:** Building from Ethiopia with an international mindset 🌍.
 
 ---
 
-## 📝 Monthly Progress
+## 📞 Let's Connect & Chat!
 
-### August 1, 2026
+Got an idea? Want to collaborate? Or just want to talk about tech? Let's talk!
 
-- ✅ Continued JavaScript practice with algorithm problems and reusable utilities
-- ✅ Expanded project skills by building cleaner code and better documentation
-- ✅ Added shared utility modules for future projects
-- 🔄 Next: Deepen React fundamentals and begin React Native app development
-
----
-
-## 💡 Philosophy
-
-> "Success is not about being the smartest in the room. It's about being the most persistent, most curious, and most willing to fail fast and learn."
-
-I believe in:
-
-- **Building in public** (sharing my learning journey)
-- **Writing clean code** (readable > clever)
-- **Shipping over perfection** (done > perfect)
-- **Continuous learning** (growth never stops)
+- 📸 **Instagram:** [@liam_xoom](https://instagram.com/liam_xoom)
+- 🐙 **GitHub:** [@liamwork999-art](https://github.com/liamwork999-art)
+- 🧩 **LeetCode:** [Liam_xoom999-art](https://leetcode.com/u/Liam_xoom999-art)
+- 📧 **Email:** [liamwork999@gmail.com](mailto:liamwork999@gmail.com)
 
 ---
 
-**Last Updated:** August 1, 2026  
-**Status:** 🟢 Active Learner | Building Daily | Always Growing
+## 🚀 The Big Goal
+
+By age 22, I am going to:
+
+- ✅ Build & publish 5+ apps on Google Play Store & Apple App Store
+- ✅ Generate recurring passive income from my apps
+- ✅ Land a full-time remote React Native developer role
+
+**"I'm not just learning to code. I'm building the future, one commit at a time."**
 
 ---
 
-_If you made it this far, thanks for reading! Feel free to explore my repos, star your favorites, and connect with me. Let's build something amazing together!_ 🚀
+## 📝 Monthly Dev Log
+
+### August 2026 Update 🗓️
+
+- ✅ Crushing LeetCode algorithms & JavaScript utility challenges
+- ✅ Refactoring codebase into reusable modular utilities
+- ✅ Preparing the foundation for React & React Native!
+
+---
+
+## 💡 Life Philosophy
+
+> _"Success isn't about being the smartest person in the room. It's about being the most curious, the most persistent, and willing to fail fast and learn faster."_
+
+- 📢 **Build in public**
+- 🧹 **Keep code clean**
+- 🚀 **Ship > Perfect**
+- 🔄 **Always keep growing**
+
+---
+
+**Status:** 🟢 Active Learner | Building Daily | Always Growing  
+**Last Updated:** August 2026
+
+---
+
+_Thanks for stopping by! Star any repo you like, drop a follow, and let's build something awesome together! 🚀_
