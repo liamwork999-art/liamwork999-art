@@ -1,7 +1,7 @@
 # Hey there, I'm Liam Araya! 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6d/03/20/6d0320a4fcdd58b653aa21e2f1fa6674.jpg" alt="Cute Cat Banner" width="650" style="border-radius: 10px;">
+  <img src="car_image.jpg" alt="Header Banner" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </p>
 
 **Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨**
