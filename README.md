@@ -35,6 +35,17 @@ When I'm not fighting CSS flexbox or wondering why JavaScript evaluates `[] + {}
 
 ## 💼 Projects (Built With Blood, Sweat, and Console.logs)
 
+### 🚀 Featured / Multi-Page Web Projects
+
+1. **💡 Lumina Creative — Agency Portfolio** ⭐ *(First Full Multi-Page Project!)*
+   - A slick digital agency website featuring multi-page navigation and interactive Lightbox image modals!
+   - **Stack:** HTML5, CSS3, JavaScript (jQuery, Lightbox2), Font Awesome
+   - **Cool Stuff:** Multi-page routing (Home, About, Contact), Lightbox modal gallery, team section, service cards, and contact form.
+   - **Milestone:** My very first complete multi-page web application! 🎉
+   - 🔗 [Check Out The Code 🤘](https://github.com/liamwork999-art/Lumina-Creative)
+
+---
+
 ### 🟨 JavaScript Projects
 
 1. **🎯 Guess My Number**
