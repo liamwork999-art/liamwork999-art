@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <font color="#38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
+  <font style="color: #38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
 </h3>
 
 Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
