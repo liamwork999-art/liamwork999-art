@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <font style="color: #38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
+  <font color="#38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
 </h3>
 
 Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
@@ -37,7 +37,7 @@ When I'm not fighting CSS flexbox or wondering why JavaScript evaluates `[] + {}
 
 ### 🚀 Featured / Multi-Page Web Projects
 
-1. **💡 Lumina Creative — Agency Portfolio** ⭐ *(First Full Multi-Page Project!)*
+1. **💡 Lumina Creative — Agency Portfolio** ⭐ _(First Full Multi-Page Project!)_
    - A slick digital agency website featuring multi-page navigation and interactive Lightbox image modals!
    - **Stack:** HTML5, CSS3, JavaScript (jQuery, Lightbox2), Font Awesome
    - **Cool Stuff:** Multi-page routing (Home, About, Contact), Lightbox modal gallery, team section, service cards, and contact form.
