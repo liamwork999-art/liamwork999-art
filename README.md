@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Mobile+Dev+%7C+Turning+Coffee+%26+Bugs+into+Apps+%26+Webs+%E2%98%95%E2%9C%A8" alt="Tagline Banner" />
+  <img src="cat_image.jpg" alt="Header Banner" width="90%" height="400"/>
 </p>
 
 <p align="center">
-  <img src="cat_image.jpg" alt="Header Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1400&pad=30&lines=Aspiring+Mobile+Dev+%7C+Turning+Coffee+%26+Bugs+into+Apps+%26+Webs+%E2%98%95%E2%9C%A8" alt="Tagline Banner" />
 </p>
 
 Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
