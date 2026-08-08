@@ -1,12 +1,14 @@
-# Hey there, I'm Liam Araya! 👋
-
 <p align="center">
-  <img src="cat_image.jpg" alt="Header Banner" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=I'm+Liam+Araya!+%F0%9F%91%8B" alt="I'm Liam Araya!" />
 </p>
 
-<h3 align="center">
-  <font color="#38BDF8">Aspiring Mobile Dev | Turning Coffee & Bugs into Apps & Webs ☕✨</font>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Mobile+Dev+%7C+Turning+Coffee+%26+Bugs+into+Apps+%26+Webs+%E2%98%95%E2%9C%A8" alt="Tagline Banner" />
+</p>
+
+<p align="center">
+  <img src="cat_image.jpg" alt="Header Banner" width="100%" />
+</p>
 
 Welcome to my corner of GitHub! I’m an 18-year-old self-taught developer from Ethiopia on a mission to build cool cross-platform mobile apps and slick web front-ends.
 
