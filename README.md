@@ -18,6 +18,20 @@ When I'm not fighting CSS flexbox or wondering why JavaScript evaluates `[] + {}
 
 ---
 
+## 🌐 Live Project Showcase
+
+### Lumina Creative is now live!
+
+My first full multi-page web project has been successfully deployed and is ready to view online.
+
+- 🌍 **Live Website:** [luminacreativexoom.netlify.app](https://luminacreativexoom.netlify.app)
+- ✨ **What visitors can see:** a polished multi-page agency portfolio with a modern layout, interactive gallery, and a clean contact experience.
+- 🚀 **Status:** Deployed and live for everyone to explore.
+
+This is a great milestone for me, and I’m excited to keep building and shipping more projects.
+
+---
+
 ## 🛠️ My Tech Toolbox (And Stuff I'm Conquering)
 
 **Currently Wrestling With:**
