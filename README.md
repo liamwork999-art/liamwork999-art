@@ -1,7 +1,7 @@
 # Hey there, I'm Liam Araya! 👋
 
 <p align="center">
-  <img src="car_image.jpg" alt="Header Banner" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
+  <img src="cat_image.jpg" alt="Header Banner" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </p>
 
 <h3 align="center">
