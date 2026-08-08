@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="black_cat.jpg" alt="Header Banner" width="90%" height="400"/>
+   <img src="Black_cat_Vid.gif" alt="Header Banner" width="90%" height="400"/>
 </p>
 
 <p align="center">
