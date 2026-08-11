@@ -12,7 +12,7 @@
 
 👋 **Hey there!** I'm an 18-year-old self-taught developer building cross-platform mobile apps and smooth web front-ends.
 
-> 💬 Let's collaborate! Hit me up on Instagram **[@liam_xoom](https://instagram.com)** or email **liamwork999@gmail.com**.
+> 💬 Let's collaborate! Hit me up on Instagram **[@liam_xoom](https://instagram.com/liam_xoom)** or email **[liamwork999@gmail.com](mailto:liamwork999@gmail.com)**.
 
 ---
 
@@ -25,14 +25,23 @@
 - **Features:** Phase Vocoder pitch shift (Demon, Chipmunk), Butterworth Bandpass filters (Walkie-Talkie), Ring Modulation (Alien).
 - **Integration:** Injects audio into virtual cables so Discord, Instagram Web, and WhatsApp Web hear effects live.
 - **Get it now:** Download **`Voice_Filter_Studio.zip`** from our repository **Releases** tab. No setup required.
-  ➜ [View Repo](https://github.com/liamwork999-art/Voice-Filter-Studio)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Voice-Filter-Studio)
 
 ### 2. 💡 Lumina Creative — Agency Portfolio
 
 - **What it is:** My first complete, deployed multi-page agency frontend website.
 - **Tech Stack:** HTML5, CSS3, JavaScript, jQuery, Lightbox2.
-- **Live Link:** 🔗 **[luminacreativexoom.netlify.app](https://netlify.app)**
-  ➜ [View Repo](https://github.com/liamwork999-art/Lumina-Creative)
+- **Live Link:** 🔗 **[luminacreativexoom.netlify.app](https://luminacreativexoom.netlify.app)**
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Lumina-Creative)
+
+### 3. 📷 InstaAudit Pro — Desktop Instagram Privacy Suite
+
+- **What it is:** A secure privacy app featuring an automatic recursive folder scanner that audits profile relationships 100% offline.
+- **Tech Stack:** Python, CustomTkinter, Native File System OS Utilities.
+- **Features:** Single-click directory crawling, automatic multi-threaded parsing of followers and following logs, and dual-axis column mapping.
+- **Security:** Operates purely local on downloaded account archives to protect accounts from third-party form-phishing flags.
+- **Get it now:** Download **`InstaAudit_Studio.zip`** directly from the repository **Releases** tab.
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Instagram-Unfollower-Checker)
 
 ---
 
@@ -41,29 +50,27 @@
 ### 🟨 JavaScript Web Builds
 
 - **🎯 Guess My Number:** Retro numbers game with score tracking, automated state logic, and local high-score memory.
-  ➜ [View Repo](https://github.com/liamwork999-art/Guess-My-Number)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Guess-My-Number)
 - **💸 Daily Expense Tracker:** Finance engine handling automated expense data logs, cost summation arrays, and structural object limits.
-  ➜ [View Repo](https://github.com/liamwork999-art/Daily-Expense-Tracker)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Daily-Expense-Tracker)
 - **📊 Budget Summary Tracker:** Advanced fiscal analyzer calculating category breakdowns, budget overhead alerts, and structural reports.
-  ➜ [View Repo](https://github.com/liamwork999-art/Budget-Summary-Tracker)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Budget-Summary-Tracker)
 - **✅ Todo Manager:** Production productivity script using object manipulation arrays to track, check, and filter active tasks.
-  ➜ [View Repo](https://github.com/liamwork999-art/Todo-Manager)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Todo-Manager)
 
 ### 🎨 Frontend UI Concepts
 
 - **👟 Brand Shoe Landing Page:** Product display site highlighting advanced flex grids, font typography scaling, and responsive design layouts.
-  ➜ [View Repo](https://github.com/liamwork999-art/Brand-Shoes)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Brand-Shoes)
 - **💳 Pricing Grid:** Clean, high-conversion SaaS tier comparison layout using pure CSS Grid components.
-  ➜ [View Repo](https://github.com/liamwork999-art/Pricing-Grid)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Pricing-Grid)
 - **💼 Freelance Form:** Modern interactive platform questionnaire optimizing strict label padding and clean input styling alignments.
-  ➜ [View Repo](https://github.com/liamwork999-art/Freelance-Form)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Freelance-Form)
 
 ### 🐍 Python Backend Utilities
 
 - **🎲 Twobet 2.0:** Terminal betting simulator utilizing complete OOP structures, balance safeguards, and active File I/O session states.
-  ➜ [View Repo](https://github.com/liamwork999-art/Twobet-2.0)
-- **🪃 Instagram Unfollower Checker:** Automated privacy tracker that calculates user audit data locally via secure array diff matching.
-  ➜ [View Repo](https://github.com/liamwork999-art/Instagram-Unfollower-Checker)
+  🔗 \*[➜ View Repository](https://github.com/liamwork999-art/Twobet-2.0)
 
 ---
 
