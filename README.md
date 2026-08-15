@@ -80,42 +80,30 @@ These are my production-ready, shipped apps. **Ready to download and use right n
 
 ## 💼 Core Project Ecosystem
 
-My portfolio spans multiple domains — from web frontends to Python backend utilities. Each project taught me something valuable.
+### 🎮 Games & Interactive
 
----
+- **🎯 Guess My Number** [→ Repo](https://github.com/liamwork999-art/Guess-My-Number)
+- **🎲 Pig Game** [→ Repo](https://github.com/liamwork999-art/Pig-Game)
+- **⭕ Tic Tac Toe** [→ Repo](https://github.com/liamwork999-art/Tik-Tak-Toe)
 
-### 🟨 JavaScript Interactive Web Apps
+### 💰 Finance & Productivity
 
-These are interactive, functional web applications showcasing core JavaScript mechanics and DOM manipulation.
+- **💸 Daily Expense Tracker** [→ Repo](https://github.com/liamwork999-art/Daily-Expense-Tracker)
+- **📊 Budget Summary Tracker** [→ Repo](https://github.com/liamwork999-art/Budget-Summary-Tracker)
+- **✅ Todo Manager** [→ Repo](https://github.com/liamwork999-art/Todo-Manager)
 
-| Project                       | What It Does                                                                           | Tech Stack                             | Repo                                                                |
-| ----------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------- |
-| **🎯 Guess My Number**        | Retro guessing game with score tracking, high-score memory, and dynamic difficulty     | HTML5 • CSS3 • Vanilla JS              | [→ Repo](https://github.com/liamwork999-art/Guess-My-Number)        |
-| **💸 Daily Expense Tracker**  | Real-time expense logging with totals, filtering, and data persistence                 | JavaScript Objects • Arrays            | [→ Repo](https://github.com/liamwork999-art/Daily-Expense-Tracker)  |
-| **📊 Budget Summary Tracker** | Advanced fiscal analyzer with category breakdowns, budget limits, and spending reports | Data aggregation • Object manipulation | [→ Repo](https://github.com/liamwork999-art/Budget-Summary-Tracker) |
-| **✅ Todo Manager**           | Productivity app for task creation, checking off, and filtering active/completed tasks | Array methods • Event delegation       | [→ Repo](https://github.com/liamwork999-art/Todo-Manager)           |
+### 🎨 Landing Pages & UI
 
----
+- **👟 Brand Shoe Landing Page** [→ Repo](https://github.com/liamwork999-art/Brand-Shoes)
+- **💳 Pricing Grid** [→ Repo](https://github.com/liamwork999-art/Pricing-Grid)
+- **💼 Freelance Form** [→ Repo](https://github.com/liamwork999-art/Freelance-Form)
+- **🎁 Order Summary** [→ Repo](https://github.com/liamwork999-art/Order-Summary)
+- **📊 Stats Preview** [→ Repo](https://github.com/liamwork999-art/Stats-Preview)
+- **🎪 Bono Landing Form** [→ Repo](https://github.com/liamwork999-art/Bono-Landing-Form)
 
-### 🎨 Frontend UI & Design Concepts
+### 🐍 Backend & CLI
 
-Clean, conversion-focused landing pages and component libraries built with modern CSS and responsive design.
-
-| Project                        | Focus                                                                              | Tech Stack                           | Repo                                                        |
-| ------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------- |
-| **👟 Brand Shoe Landing Page** | High-energy product showcase with advanced Flexbox grids and typography scaling    | HTML5 • CSS3 (Flexbox) • Responsive  | [→ Repo](https://github.com/liamwork999-art/Brand-Shoes)    |
-| **💳 Pricing Grid**            | SaaS-style pricing tier comparison using pure CSS Grid layouts                     | HTML5 • CSS3 Grid • Responsive cards | [→ Repo](https://github.com/liamwork999-art/Pricing-Grid)   |
-| **💼 Freelance Form**          | Modern interactive project posting form with clean input styling and accessibility | HTML5 Form Elements • CSS3 Styling   | [→ Repo](https://github.com/liamwork999-art/Freelance-Form) |
-
----
-
-### 🐍 Python Backend & CLI Utilities
-
-Terminal-based and desktop applications showcasing Python OOP, file I/O, and advanced algorithms.
-
-| Project           | What It Does                                                                          | Tech Stack                         | Repo                                                    |
-| ----------------- | ------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------- |
-| **🎲 Twobet 2.0** | Terminal-based 2-player betting simulator with game state management and session logs | Python OOP • File I/O • Game loops | [→ Repo](https://github.com/liamwork999-art/Twobet-2.0) |
+- **🎲 Twobet 2.0** [→ Repo](https://github.com/liamwork999-art/Twobet-2.0)
 
 ---
 
